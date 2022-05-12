@@ -58,7 +58,7 @@ Tab:AddButton({
                 syn.queue_on_teleport([[
                     repeat wait()
                     until game:IsLoaded() 
-                    loadstring(game:HttpGet("https://pastebin.com/raw/mV902QLR"))()
+                    loadstring(game:HttpGet("https://raw.githubusercontent.com/abroooooss/Epsilon/main/Jdware"))()
                 ]])
             end
         end)
