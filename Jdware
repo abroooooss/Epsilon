@@ -62,6 +62,7 @@ Tab:AddButton({
                 ]])
             end
         end)
+	wait(3)
         game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
     end    
 })
